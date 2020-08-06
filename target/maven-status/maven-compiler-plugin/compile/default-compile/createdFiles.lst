@@ -1,0 +1,8 @@
+bot\services\impl\VkServiceImpl.class
+bot\models\Response.class
+bot\models\NotifyObject.class
+bot\VkBotApplicationConfig.class
+bot\services\VkService.class
+bot\models\VkNotification.class
+bot\controllers\VkController.class
+bot\VkBotApplication.class
